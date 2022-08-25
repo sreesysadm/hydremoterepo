@@ -2,4 +2,7 @@
 
 *.net
 
-!five.py 
+!five.py
+
+[aeiou]*.txt
+ 
